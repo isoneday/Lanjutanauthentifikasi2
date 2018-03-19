@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "641931788709-km38b1tdmo8h17c9nq14522ovur9ebv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.training.lanjutanauthentifikasi",
+            "certificate_hash": "5c6fc12c1fc3e1913ce33a2bd2634d953f5d6f72"
+          }
+        },
+        {
           "client_id": "641931788709-8pcpg526scttuhqnjhivnn31i5u0pmml.apps.googleusercontent.com",
           "client_type": 3
         },
@@ -25,6 +33,54 @@
             "package_name": "com.training.lanjutanauthentifikasi",
             "certificate_hash": "ed5355ec173669e74f5cc4b503d3e534bd9c8799"
           }
+        },
+        {
+          "client_id": "641931788709-tv1ahkbbkpphbsf0k13qd2r0m03infu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2EijYYOnqciyr7pv3L3T8yO-jI20B6lg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641931788709-8pcpg526scttuhqnjhivnn31i5u0pmml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641931788709:android:6840df54f0b1e545",
+        "android_client_info": {
+          "package_name": "com.training.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641931788709-j12s4i31605o4ugtte5ne03p7ouv9r0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.training.firebaseapp",
+            "certificate_hash": "ed5355ec173669e74f5cc4b503d3e534bd9c8799"
+          }
+        },
+        {
+          "client_id": "641931788709-8pcpg526scttuhqnjhivnn31i5u0pmml.apps.googleusercontent.com",
+          "client_type": 3
         },
         {
           "client_id": "641931788709-tv1ahkbbkpphbsf0k13qd2r0m03infu2.apps.googleusercontent.com",

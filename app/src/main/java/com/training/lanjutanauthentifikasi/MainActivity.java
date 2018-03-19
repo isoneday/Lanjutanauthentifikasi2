@@ -220,6 +220,7 @@ public class MainActivity extends MyFuction {
             case R.id.sign_out:
                 auth.signOut();
                 myIntent(LoginActivity.class);
+
                 finish();
                 break;
         }
